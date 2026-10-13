@@ -1,16 +1,39 @@
-## Hi there 👋
+# Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪
+<!-- не видно  бугагагага -->
+## 2
+```python
+print("Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪")
+>>> 'Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪'
+```
+## 3
+**_жирная курсивнаЯ ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪_**
+## 4
+* то, что я люблю:
+  * есть:
+      1. печеньки
+      2. т.п.
+  * спать
+  * печеньки
+  * Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪
+ ## 5 
+вот вам единичная матрица:
+|🍪 |0 |0 |
+|:-|:-:|:-:|
+|0 |🍪 |0 |
+|0 |0 |🍪 |
+## 6
+> "Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+>(с) печенька
+## 7
+<img width="384" height="216" alt="wallpaperflare com_wallpaper(1)" src="https://github.com/user-attachments/assets/01375d5e-df94-4150-ab13-7f505b751c0e" />
 
-<!--
-**KOTYARA231/KOTYARA231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🍪](https://foni.papik.pro/uploads/posts/2024-09/foni-papik-pro-a1hh-p-kartinki-pechenka-na-prozrachnom-fone-3.png)
 
-Here are some ideas to get you started:
+## 8
+![] чекбокс (не работаит)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![x] еще один
+## 9
+ПЕЧЕНЬКИ <br> 🍪🍪🍪🍪🍪
+## 10
+оо, нифига, тут линия!! ↓↓↓↓↓↓ <hr> здесь вот!!! ↑↑↑↑↑
