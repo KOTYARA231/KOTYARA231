@@ -27,7 +27,7 @@ print("Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪")
 ## 7
 <img width="384" height="216" alt="wallpaperflare com_wallpaper(1)" src="https://github.com/user-attachments/assets/01375d5e-df94-4150-ab13-7f505b751c0e" />
 
-[🍪](https://foni.papik.pro/uploads/posts/2024-09/foni-papik-pro-a1hh-p-kartinki-pechenka-na-prozrachnom-fone-3.png)
+<img width="233" height="233" alt="foni-papik-pro-a1hh-p-kartinki-pechenka-na-prozrachnom-fone-3" src="https://github.com/user-attachments/assets/380bdace-c04b-49bc-b5bb-960856465bcd" />
 
 ## 8
 ![] чекбокс (не работаит)
