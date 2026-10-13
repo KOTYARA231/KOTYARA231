@@ -30,9 +30,8 @@ print("Я ПЕЧЕНЬКА 🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪")
 <img width="233" height="233" alt="foni-papik-pro-a1hh-p-kartinki-pechenka-na-prozrachnom-fone-3" src="https://github.com/user-attachments/assets/380bdace-c04b-49bc-b5bb-960856465bcd" />
 
 ## 8
-![] чекбокс (не работаит)
-
-![x] еще один
+- [ ] печенька 🍪 съедена???
+- [x] печенька 🍪 съедена!!!
 ## 9
 ПЕЧЕНЬКИ <br> 🍪🍪🍪🍪🍪
 ## 10
